@@ -2,7 +2,7 @@
 	{
 		"id": "LIB-101",
 		"name": "Django",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/Django.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/Django.webp",
 		"description": "Django is a high-level web framework written in Python that enables rapid web development.",
 		"website": "https://www.djangoproject.com/",
 		"stars": 50700,
@@ -11,7 +11,7 @@
 	{
 		"id": "LIB-102",
 		"name": "React",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/React.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/React.webp",
 		"description": "React is a JavaScript library for building user interfaces, developed by Facebook.",
 		"website": "https://reactjs.org/",
 		"stars": 175000,
@@ -20,7 +20,7 @@
 	{
 		"id": "LIB-103",
 		"name": "Spring Framework",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/SpringFramework.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/SpringFramework.webp",
 		"description": "Spring is a powerful framework for Java used to build enterprise Java applications.",
 		"website": "https://spring.io/",
 		"stars": 52300,
@@ -29,7 +29,7 @@
 	{
 		"id": "LIB-104",
 		"name": "Qt",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/Qt.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/Qt.webp",
 		"description": "Qt is a cross-platform C++ framework for building graphical user interfaces.",
 		"website": "https://www.qt.io/",
 		"stars": 11700,
@@ -38,7 +38,7 @@
 	{
 		"id": "LIB-105",
 		"name": ".NET Core",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/DotNetCore.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/DotNetCore.webp",
 		"description": ".NET Core is a cross-platform framework for building modern web applications and microservices with C#.",
 		"website": "https://dotnet.microsoft.com/",
 		"stars": 46800,
@@ -47,7 +47,7 @@
 	{
 		"id": "LIB-106",
 		"name": "Ruby on Rails",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/RubyOnRails.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/RubyOnRails.webp",
 		"description": "Ruby on Rails is a web framework written in Ruby used for building scalable web applications.",
 		"website": "https://rubyonrails.org/",
 		"stars": 49200,
@@ -56,7 +56,7 @@
 	{
 		"id": "LIB-107",
 		"name": "Gin",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/Gin.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/Gin.webp",
 		"description": "Gin is a web framework written in Go for building fast and efficient web applications.",
 		"website": "https://gin-gonic.com/",
 		"stars": 51600,
@@ -65,7 +65,7 @@
 	{
 		"id": "LIB-108",
 		"name": "SwiftUI",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/SwiftUI.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/SwiftUI.webp",
 		"description": "SwiftUI is a framework for building user interfaces using Swift, making it easy to create beautiful and interactive apps.",
 		"website": "https://developer.apple.com/xcode/swiftui/",
 		"stars": 24900,
@@ -74,7 +74,7 @@
 	{
 		"id": "LIB-109",
 		"name": "Rocket",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/Rocket.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/Rocket.webp",
 		"description": "Rocket is a web framework written in Rust used for building secure and fast web applications.",
 		"website": "https://rocket.rs/",
 		"stars": 16000,
@@ -83,7 +83,7 @@
 	{
 		"id": "LIB-110",
 		"name": "Angular",
-		"imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-DenGian/main/assets/images/Angular.webp",
+		"imageUrl": "https://raw.githubusercontent.com/DenGian/API-Collection/main/assets/images/Angular.webp",
 		"description": "Angular is a TypeScript-based open-source web framework for building single-page applications.",
 		"website": "https://angular.io/",
 		"stars": 76800,
